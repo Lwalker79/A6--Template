@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(95, 179, 179);
+}
+.navigation{
+    font-size: 20px;
+    font-family: 'Bungee', cursive;
+    float: right;
+    
+}
+ul {
+    list-style-type: none;
+}
+.body_text{
+margin:auto;
+    text-align:left;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 100px;
+    width: 700px
+}
+.fakenavbar{
+    background-color:rgb(84, 107, 116) ;
+    width: all;
+    height: 30px;
+    text-align: center;
+}
+.contact{
+    float:right;
+}
+h1{
+    padding: 10px;
+    text-align:center;
+    font-family: 'bungee', cursive;
+}
